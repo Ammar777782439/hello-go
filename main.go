@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-    "hello-go/greetings"
+    "github.com/Ammar777782439/hello-go/greetings"
 )
 
 func main() {
